@@ -87,6 +87,13 @@ Backend
 
             RestApplication: Main application file located in the webservices folder.   
 
+Server:
+
+     Embedded Tomcat Server:
+
+       Since Spring Boot is being used, it typically comes with an embedded Apache Tomcat server for running applications.
+
+
             
 How to Run the Application
 
