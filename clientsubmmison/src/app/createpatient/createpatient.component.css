@@ -1,0 +1,8 @@
+.bg{
+    background-image: url(../../assets/img/slide/slide-2.jpg);
+    height: 600px;
+}
+.container{
+    height: auto;
+    background-color: #ff4c06c4;
+}
